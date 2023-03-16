@@ -1,2 +1,2 @@
 # rsschool-cv
-cv for rsschool
+https://grinchcreator.github.io/rsschool-cv/cv
