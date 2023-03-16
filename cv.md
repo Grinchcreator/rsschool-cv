@@ -7,7 +7,7 @@ A curious Junior Frontend Developer. I learn quick and am always ready for some 
 
 ## Contacts
 
-[Email](mailto:xgreenwich97@gmail.com) | [Github](https://github.com/Grinchcreato) |  [Telegram](t.me/drug.tribe)
+[Email](mailto:xgreenwich97@gmail.com) | [Github](https://github.com/Grinchcreator) |  [Telegram](t.me/drug.tribe)
 
 ## About me
 
