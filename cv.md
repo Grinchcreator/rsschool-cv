@@ -1,6 +1,6 @@
 # Kseniya Egorushkova - @Grinchcreator
 
-![me](deep_breaths.png)
+![Me](deep_breaths.png)
 
 A curious Junior Frontend Developer. I learn quick and am always ready for some challenge.
 
@@ -77,7 +77,7 @@ $Thank_You_Window.show();} else {console.log("One of the conditions holds false"
 
 * English (C1)
 
-![English](unnamed.png)
+![certificate](unnamed.png)
 
 * German (A2)
 
